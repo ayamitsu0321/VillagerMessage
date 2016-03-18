@@ -1,0 +1,19 @@
+#	"random" : [
+#		{ "text" : "SampleText1", "vertical" : false }, # default value is false, line become horizontal
+#		{ "text" : "SampleText2", "vertical" : true }   # line become vertical
+#	]
+
+{
+	"random" : [
+		{ "text" : "Time is money." },
+		{ "text" : "You have no time." },
+		{ "text" : "Huh." },
+		{ "text" : "She sells sea shells by the seashore." },
+		{ "text" : "Peter Piper picked a peck of pickled peppers." },
+		{ "text" : "Good morning, afternoon, or evening." },
+		{ "text" : "Hello!" },
+		{ "text" : "Hello World!" },
+		{ "text" : "A piece of cake." }
+	]
+	
+}
